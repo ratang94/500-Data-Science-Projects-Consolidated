@@ -1,4 +1,5 @@
-# 500-Data-Science-Projects-Consolidated
+# 👨‍💻 500-Data-Science-Projects-Consolidated
+## HAPPY LEARNING ⊂◉‿◉つ
 This repository contains 500+ Data Science Projects with step by step explanation from different sources for Learning Purposes
 ## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
